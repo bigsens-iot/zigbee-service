@@ -15,6 +15,7 @@
     "concentrate": "^0.2.3",
     "debug": "^2.2.0",
     "log4js": "^0.6.38",
+    "q": "^1.4.1",
     "underscore": "^1.8.3",
     "zigbee-shepherd": "0.0.3"
   }
