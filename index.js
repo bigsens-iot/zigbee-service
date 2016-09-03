@@ -11,7 +11,6 @@
 
 var _ = require('underscore'),
 	log4js = require('log4js'),
-	ZigBeeService = require('./lib/service/ZigBeeService'),
 	Table = require('cli-table');
 
 log4js.configure({
@@ -28,6 +27,8 @@ log4js.configure({
 
 // make it global
 global.log4js = log4js;
+
+var ZigBeeService = require('./lib/service/ZigBeeService');
 
 function main() {
 
