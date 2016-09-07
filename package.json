@@ -17,6 +17,7 @@
     "log4js": "^0.6.38",
     "q": "^1.4.1",
     "underscore": "^1.8.3",
+    "zcl-id": "^0.1.2",
     "zigbee-shepherd": "0.0.3"
   }
 }
