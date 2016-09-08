@@ -14,9 +14,12 @@
     "cli-table": "^0.3.1",
     "concentrate": "^0.2.3",
     "debug": "^2.2.0",
+    "dissolve": "^0.3.3",
+    "enum": "^2.3.0",
     "log4js": "^0.6.38",
     "q": "^1.4.1",
     "underscore": "^1.8.3",
+    "when": "^3.7.7",
     "zcl-id": "^0.1.2",
     "zigbee-shepherd": "0.0.3"
   }
