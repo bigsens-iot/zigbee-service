@@ -28,7 +28,7 @@ log4js.configure({
 // make it global
 global.log4js = log4js;
 
-var ZigBeeService = require('./lib/service/ZigBeeService');
+var ZigBeeService = require('./lib/ZigBeeService');
 
 function main() {
 

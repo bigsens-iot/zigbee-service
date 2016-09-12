@@ -8,6 +8,7 @@ Host service for single-board computers with message API.
 
   * SERVICE_ANNCE
   * SERVICE_INFO
+  * MESSAGE_DISCOVER
   * DEVICE_STATE
   * PERMIT_JOIN
   * DEVICE_LIST
@@ -23,6 +24,7 @@ Supported chips Texas Instruments CC2530 and CC2531.
 ### Devices
 Supported chips Texas Instruments and Marvell
 
+  * Dimmable light
   * Motion sensor
   * Contact switch sensor
   * Temperature and humidity sensor
