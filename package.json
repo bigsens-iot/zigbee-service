@@ -11,6 +11,7 @@
   "dependencies": {
     "aguid": "^1.0.4",
     "busyman": "^0.1.4",
+    "cc-znp": "^0.2.0",
     "cli-table": "^0.3.1",
     "concentrate": "^0.2.3",
     "debug": "^2.2.0",
