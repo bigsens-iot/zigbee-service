@@ -51,7 +51,7 @@ function main() {
 
 	var service = new ZigBeeService(cfg);
 
-	service.start();
+	//service.start();
 
 	/*
 	service.on('ready', function(srv) {
