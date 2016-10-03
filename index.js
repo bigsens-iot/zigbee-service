@@ -4,7 +4,6 @@
  * Target chips cc2530, cc3531
  * Need to add firmware upload routines depended from platform target.
  * Platform target <vendorId:productId>
- *
  * Author: Constantin Alexandrov
  */
 
