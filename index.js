@@ -53,16 +53,16 @@ function main() {
 
 	//service.start();
 
-	/*
+	
 	service.on('ready', function(srv) {
 		console.log('Service started');
-		setInterval(function() {
+		/*setInterval(function() {
 			srv.discoverDevices(function(list) {
 				displayDevices(list);
 			});
-		}, 10000);
+		}, 10000);*/
 	});
-	*/
+	
 
 }
 
