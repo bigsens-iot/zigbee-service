@@ -4,7 +4,7 @@ Wants=bs-core.service
 After=bs-core.service
 
 [Service]
-ExecStart=/usr/local/bin/node /root/bs-zigbee-service/index.js
+ExecStart=/usr/local/bin/node /root/zigbee-service/index.js
 Restart=always
 RestartSec=10                 # Restart service after 10 seconds if node service crashes
 #StandardOutput=syslog        # Output to syslog (redirect output in the app)
