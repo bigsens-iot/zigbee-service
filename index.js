@@ -1,6 +1,8 @@
 /*
  * Copyright (c) 2016, Bigsens, LLC
+ *
  * ZigBee ZNP Service (ZZS)
+ *
  * Target chips cc2530, cc3531
  * Need to add firmware upload routines depended from platform target.
  * Platform target <vendorId:productId>
